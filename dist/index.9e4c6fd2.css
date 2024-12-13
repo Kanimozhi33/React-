@@ -1,0 +1,28 @@
+#grandchild {
+  color: #dc143c;
+  text-align: center;
+  background-color: #000;
+  padding: 20px;
+}
+
+#sibling {
+  color: #adff2f;
+  text-align: center;
+  background-color: #008b8b;
+  padding: 20px;
+}
+
+#maya {
+  color: #f0f8ff;
+  text-align: center;
+  background-color: #00008b;
+  padding: 20px;
+}
+
+#isabelle {
+  color: #008b8b;
+  text-align: center;
+  background-color: #191970;
+  padding: 20px;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

@@ -1,0 +1,30 @@
+{
+  "name": "react-as",
+  "version": "1.0.0",
+  "description": "this is react course with AS",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanimozhi33/React-.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "kanimozhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanimozhi33/react-/issues"
+  },
+  "homepage": "https://github.com/Kanimozhi33/React-#readme",
+  "devDependencies": {
+    "parcel": "^2.13.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
