@@ -1,3 +1,6 @@
+import React from "./node_modules/react";
+import ReactDOM from "./node_modules/react-dom./client";
+import "./index.css";
 const parent = React.createElement("div",{id: "parent"},
      [React.createElement("div",{id: "child"},
     [
